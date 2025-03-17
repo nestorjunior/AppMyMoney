@@ -1,0 +1,41 @@
+# Node.js dependencies (caso use pacotes externos)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# PowerApps arquivos temporários e caches
+*.msapp
+*.tmp
+
+# Configurações locais e arquivos do sistema
+.DS_Store
+Thumbs.db
+*.bak
+
+# Arquivos específicos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos de metadados do Finder
+**/__MACOSX/
+
+# Spotlight e Trash
+.Trashes
+Spotlight-V100
+
+# Pastas e arquivos do VS Code
+.vscode/
+*.code-workspace
+
+# Backup de arquivos
+*.old
+*.backup
+
+# Pasta de builds ou exportações
+build/
+dist/
+
