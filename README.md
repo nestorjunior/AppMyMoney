@@ -1,11 +1,12 @@
 # App My Money
 
 ## Descrição
-Este é o **App My Money**, um aplicativo desenvolvido com o **Microsoft Power Apps**. Ele foi criado para proporcionar uma experiência intuitiva e eficiente na gestão de pedidos e produtos de uma cafeteria.
+Este é o **App My Money**, um aplicativo desenvolvido com o **Microsoft Power Apps**. 
+Ele efetua o cadastro, edita valores no SharePoint: Despesas e Receitas.
 
 ## Tecnologias Utilizadas
 - **Microsoft Power Apps** (Canvas App)
-- **Excel** 
+- **Microsoft SharePoint** 
 
 ## Capturas de Tela
 ### Versão Desktop
